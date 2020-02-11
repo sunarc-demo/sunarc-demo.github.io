@@ -1,6 +1,6 @@
 {
-  "name": "AJIO",
-  "short_name": "AJIO",
+  "name": "Flutter-demo",
+  "short_name": "Flutter-demo",
   "theme_color": "#2f4254",
   "background_color": "#2f4254",
   "display": "standalone",
